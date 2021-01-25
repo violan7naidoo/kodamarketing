@@ -391,7 +391,7 @@ img {
   font-size: 4rem; }
 
 #main-footer {
-  background: #333;
+  background: #1261a0;
   color: #fff;
   height: 5rem; }
   #main-footer .footer-content {
@@ -401,7 +401,7 @@ img {
     align-items: center; }
     #main-footer .footer-content .social .fab {
       margin-right: 1rem;
-      border: 2px #fff solid;
+      border: 2px #333 solid;
       border-radius: 50%;
       height: 20px;
       width: 20px;
@@ -409,7 +409,7 @@ img {
       text-align: center;
       padding: 0.5rem; }
       #main-footer .footer-content .social .fab:hover {
-        background: #1261a0; }
+        background: #88b6db; }
 
 @media (max-width: 800px) {
   #header-home {
